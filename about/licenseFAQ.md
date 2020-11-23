@@ -101,7 +101,7 @@ In the following, we are listing some common scenarios. If none of these fits yo
 
 ### Same Software Engine, Multiple Products
 
-If you develop a software engine that is contained in two products sold separately, you need a license for each product, even if the engine is basically the same in each of the separate products.
+If you develop a software engine that is contained in two products sold separately, the two products are considered different applications, even if the engine is basically the same in each of the separate products.
 
 Note: If your application is for resale, each of your customers requires separate licenses.
 
@@ -109,7 +109,7 @@ Note: If your application is for resale, each of your customers requires separat
 
 (for web applications) 
 
-If you are using the Domain License option, to deploy the same web application to multiple domains, you need a Domain License for each domain. 
+If you are deploying the same web application to multiple domains, the two deployments are considered different applications.  
 
 "Domain" is defined as a primary domain of your business or organization.  
 
@@ -141,15 +141,11 @@ Note: If your application is for resale, each of your customers requires separat
 
 ### Evaluation and "Light" Application Versions 
 
-If you develop an evaluation version or a light version of your application using Dynamsoft SDKs, Dynamsoft does not require a separate development license for the evaluation/lite version. 
+If you develop an evaluation version or a light version of your application using Dynamsoft SDKs, Dynamsoft considers the two versions as one application for licensing purposes. Dynamsoft does not require a separate development license for the evaluation/lite version. 
 
 ### New Versions and Updates of Existing Applications 
 
-If you develop a new version of or update to an existing application, Dynamsoft does not consider the update or new version to require an additional development license. 
-
-### Unlimited Development License 
-
-An Unlimited Development License allows an unlimited number of programmers (working for the same organization) to use the Dynamsoft SDKs for the development of an unlimited number of internal applications. Please contact sales@dynamsoft.com if you are interested in obtaining an Unlimited Development License. 
+If you develop a new version of or update to an existing application, Dynamsoft considers the versions as one application for licensing purposes.  
 
 ## Policies
 
