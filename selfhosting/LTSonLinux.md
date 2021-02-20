@@ -35,6 +35,7 @@ mkfs -t ext4 /dev/nvme1n1
 mount /dev/nvme1n1 /data
 df -h
 
+
 ``` 
 
 ![LTS-on-Linux-002]({{site.assets}}imgs/ltsonlinux-002.png)
